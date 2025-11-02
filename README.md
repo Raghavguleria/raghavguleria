@@ -42,7 +42,7 @@ Based in India | ✉️ **raghavguleria2416@gmail.com**
 
 ---
 
-### 🧾 Publications
+### Publications
  *Computational and Data-Driven Investigation of Tribological Characteristics in Reinforced AZ91D Magnesium Composites*  
 - Combined **mechanical experimentation** with **data analytics and regression modeling** for performance optimization.  
 - Showcased how **Python + Minitab integration** enhances experimental analysis in material science.
@@ -57,12 +57,12 @@ Based in India | ✉️ **raghavguleria2416@gmail.com**
 ---
 
 ### How to reach me
-📧 **raghavguleria2416@gmail.com**  
+**raghavguleria2416@gmail.com**  
  [LinkedIn](https://www.linkedin.com/in/raghav-guleria-315012216/)  
 
 ---
 
-### ⚡ Fun fact
+### Fun fact
 I enjoy merging **mechanical intuition** with **data-driven intelligence** — turning raw experimental data into meaningful insights through machine learning.
 
 ---
