@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm **Raghav Guleria**
 
 🎓 **B.Tech Mechanical Engineering** | 💻 **Data Science & Machine Learning Enthusiast**  
-Based in India | ✉️ **raghavguleria2416@gmail.com**  
+  **raghavguleria2416@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/raghav-guleria-315012216/)  
 
 ---
