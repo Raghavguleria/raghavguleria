@@ -2,7 +2,7 @@
 
 🎓 **B.Tech Mechanical Engineering** | **Data Science & Machine Learning Enthusiast**  
   **raghavguleria2416@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/raghav-guleria-315012216/)  
+[LinkedIn](https://www.linkedin.com/in/raghav-guleria-315012216/)  
 
 ---
 
